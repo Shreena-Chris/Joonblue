@@ -1,0 +1,105 @@
+.img{
+    background-image: url('./grp.jpg');
+    background-size:cover;
+    background-position: center;
+}
+.dia{
+    position:relative;
+    top: 40px;
+    left: -10px;
+    opacity: 69%;
+}
+.head{
+    position:absolute;
+    font-size: 25px;
+    color: rgb(234, 240, 245);
+    top: 56px;
+    left:30px;
+    font-style: italic;
+}
+.box2{
+    background-color: rgb(85, 83, 83);
+    color: rgb(85, 84, 84);
+    padding: auto;
+    border: double;
+    opacity: 100%;
+    border-radius: 20px 25px;
+    border-style: solid;
+    position: relative;
+    width: 1610px;
+    height: 70px;
+    left: -20px;
+    top: -509px;
+}
+.s3{
+  font-style: bold;
+  font-size: 25px;
+  color: #cc1a1a;
+  position: relative;
+  left: 670px;
+  top: -610px;
+  }
+  
+.s4{
+  font-style: bold;
+  font-size: 25px;
+  color: #dad2d2;
+  position: relative;
+  left: 710px;
+  top: -700px;
+  }
+  .text{
+    position:relative;
+    font-size: 55px;
+    color: rgb(233, 238, 243);
+    top: -375px;
+    left:20px;
+    font-style: italic;
+  }
+  .head3{
+    position:relative;
+    font-size: 55px;
+    color: #cc1a1a;
+    top: -375px;
+    left:10px;
+    font-style:bold;
+    font-family:serif;
+  }
+  .text2{
+    position:relative;
+    font-size: 22px;
+    color: rgb(5, 5, 5);
+    top: -405px;
+    left:10px;
+    font-style: italic;
+  }
+  .ss{
+    background-image: url('./bulb.jpeg');
+    background-position: center;
+}
+.head4{
+    position:relative;
+    font-size: 55px;
+    color: #cc1a1a;
+    top: -375px;
+    left:10px;
+    font-style:bold;
+    font-family:serif;
+  }
+  .text3{
+    position:relative;
+    font-size: 22px;
+    color: rgb(5, 5, 5);
+    top: -420px;
+    left:10px;
+    font-style: italic;
+  }
+  .head5{
+    position:relative;
+    font-size: 35px;
+    color: #cc1a1a;
+    top: -375px;
+    left:10px;
+    font-style:bold;
+    font-family:serif;
+  }
